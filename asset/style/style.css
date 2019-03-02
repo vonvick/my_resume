@@ -1,0 +1,60 @@
+.user-first-name {
+    color: red;
+}
+.rounded-corners {
+    border-radius: 50%;
+}
+
+.contact-div {
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.address-div {
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.contact-title {
+    font-weight: bold;
+    color: red;
+}
+
+.contact-name {
+    height: 70px;
+    border-bottom: 2px solid black;
+}
+
+.resume-header {
+    font-weight: bold;
+    color: red;
+    font-size: 18px;
+    border-bottom: 2px solid red;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.company-info {
+    display: flex;
+    justify-content: space-between;
+}
+.container-fluid {
+    width: 90% !important;
+    margin: 0 auto;
+}
